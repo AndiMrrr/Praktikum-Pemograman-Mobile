@@ -10,8 +10,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     String title = 'Aplikasi Pertamaku';
-    String name = 'Budi Santoso';
-    String message = 'Halo nama saya $name, selamat datang di $title';
+    String name = 'Andi Mrr';
+    String message = 'P Nami abi $name, selamat datang di $title';
 
     return MaterialApp(
       title: title,
